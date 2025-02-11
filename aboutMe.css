@@ -67,6 +67,10 @@
   .about-funfact span {
     color: #e63946;
   }
+
+  .text-white{
+    color:white;
+  }
   
   @media (max-width: 768px) {
     .about-container {
@@ -79,4 +83,10 @@
       font-size: 1.1rem;
     }
   }
+  
+
+
+
+
+
   

@@ -2,6 +2,7 @@
     background-color: rgb(0,0,33);
     padding: 50px 0;
     text-align: center;
+    margin: 5% 0;
 }
 
 .projects-container {
@@ -31,6 +32,9 @@ h2 {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     text-align: center;
     width: 300px;
+}
+.project:hover{
+    cursor: pointer;
 }
 
 .project img {
